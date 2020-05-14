@@ -1,0 +1,5 @@
+[flake8]
+ignore = E501, E128, E124, E126
+exclude =
+	tests,
+	venv
